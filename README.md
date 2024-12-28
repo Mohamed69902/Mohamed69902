@@ -29,8 +29,8 @@ My objectives are to develop my technical expertise, connect with others in the 
 
 ### SIEM
 <div>
+    <img src="https://img.shields.io/badge/-Elastic%20Stack-005571?&style=for-the-badge&logo=elasticsearch&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-3C9CD7?&style=for-the-badge&logo=apachekafka&logoColor=white" />
 
 </div>
 
