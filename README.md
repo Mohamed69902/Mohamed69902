@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/mohamed-jemmari-27811a208/?trk=PROFILE_DROP_DOWN"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a cybersecurity student at <h2 href"https://www.ofppt.ma/" />OFPPT</a>
+I am a cybersecurity student at <h2 href="https://www.ofppt.ma/" />OFPPT</h2>
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
