@@ -13,13 +13,18 @@ My objectives are to develop my technical expertise, connect with others in the 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Elastic stack lab</a>|
+| Metasploit         | <a hhref="https://google.com">-</a>|
+| Python Essentials        | <a hhref="https://google.com">-</a>|
+| SQL (Structured Query Language)   | <a hhref="https://google.com">-</a>|
+
 
 ## Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-3C9CD7?&style=for-the-badge&logo=apachekafka&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-00C176?&style=for-the-badge&logo=tenable&logoColor=white" />
 </div>
 
 ### SIEM
