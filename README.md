@@ -33,47 +33,8 @@ My objectives are to develop my technical expertise, connect with others in the 
 </div>
 
 ## Certifications
-<head>
-    <title>Certifications</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin: 10px 0;
-        }
-        a {
-            text-decoration: none;
-            color: #007BFF;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <h1>Certifications</h1>
-    <ul>
-        <li>
-            <span>CompTIA Security+ </span>
-            <a href="https://www.comptia.org/" target="_blank">View Certification</a>
-        </li>
-        <li>
-            <span>Certified Ethical Hacker (CEH) </span>
-            <a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/" target="_blank">View Certification</a>
-        </li>
-        <li>
-            <span>Elastic Certified Analyst </span>
-            <a href="https://www.elastic.co/training/certification" target="_blank">View Certification</a>
-        </li>
-    </ul>
-</body>
-</html>
+
+- **[Python Essentials 1]([https://www.comptia.org/](https://www.credly.com/badges/27ac8ee1-4f0c-40aa-8e76-b3963fe03667))**  
 
 
 ## Projects
