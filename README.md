@@ -33,11 +33,52 @@ My objectives are to develop my technical expertise, connect with others in the 
 </div>
 
 ## Certifications
-<div>
-<p>Python esssenteils 1
-<img size="20px" src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" />
-    </p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certifications</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Certifications</h1>
+    <ul>
+        <li>
+            <span>CompTIA Security+ </span>
+            <a href="https://www.comptia.org/" target="_blank">View Certification</a>
+        </li>
+        <li>
+            <span>Certified Ethical Hacker (CEH) </span>
+            <a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/" target="_blank">View Certification</a>
+        </li>
+        <li>
+            <span>Elastic Certified Analyst </span>
+            <a href="https://www.elastic.co/training/certification" target="_blank">View Certification</a>
+        </li>
+    </ul>
+</body>
+</html>
+
 
 ## Projects
 - Elastic stack Detection Lab
