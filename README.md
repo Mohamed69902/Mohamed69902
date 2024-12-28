@@ -34,7 +34,9 @@ My objectives are to develop my technical expertise, connect with others in the 
 
 ## Certifications
 <div>
-<img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" />
+<p>Python esssenteils 1
+<img size="20px" src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" />
+    </p>
 </div>
 
 ## Projects
