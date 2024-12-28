@@ -34,7 +34,7 @@ My objectives are to develop my technical expertise, connect with others in the 
 
 ## Certifications
 
-- **[Python Essentials 1]([https://www.comptia.org/](https://www.credly.com/badges/27ac8ee1-4f0c-40aa-8e76-b3963fe03667))**  
+- [Python Essenteils 1](https://www.credly.com/badges/27ac8ee1-4f0c-40aa-8e76-b3963fe03667)
 
 
 ## Projects
