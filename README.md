@@ -35,8 +35,7 @@ My objectives are to develop my technical expertise, connect with others in the 
 
 ## Certifications
 
-<h3>Python Essentials 1</h3>
-<img src="https://img.shields.io/badge/-Python%20Essentials%201-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+- [Python Essentials 1](https://www.credly.com/badges/27ac8ee1-4f0c-40aa-8e76-b3963fe03667)
 
 
 ## Projects
