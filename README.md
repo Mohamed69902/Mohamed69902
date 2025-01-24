@@ -14,7 +14,7 @@ My objectives are to develop my technical expertise, connect with others in the 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation         | <a href="https://github.com/Mohamed69902/Elastickstack-lab">Building Elastic stack lab</a>|
 | Metasploit         | <a hhref="https://google.com">-</a>|
-| Python        | <a hhref="[https://google.com](https://github.com/Mohamed69902/IcmpProject)">-</a>|
+| Python        | <a hhref="https://github.com/Mohamed69902/IcmpProject">-</a>|
 | SQL (Structured Query Language)   | <a hhref="https://google.com">-</a>|
 
 
