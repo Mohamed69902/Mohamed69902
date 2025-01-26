@@ -36,6 +36,7 @@ My objectives are to develop my technical expertise, connect with others in the 
 ## Certifications
 
 - [Python Essentials 1](https://www.credly.com/badges/27ac8ee1-4f0c-40aa-8e76-b3963fe03667)
+- [Jr Pentester tryhackme](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YAMBR3FHW4.pdf)
 
 
 ## Projects
